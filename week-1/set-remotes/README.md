@@ -11,6 +11,8 @@
 
 Git uses remote URLs to figure out where to go on the Internet to push and pull files. By setting a remote, you are basically telling git exactly where to go when you want to save (push) your work, get (pull) your work to your computer, or fetch changes from the repo you forked from.
 
+In this challenge, you will set up your upstream repositories so you can get the changes we release each week.
+
 ## Releases:
 
 ## Release 0: Watch
@@ -18,7 +20,6 @@ Watch this video about setting up remotes.
 
 [![Remotes, fetching, and merging](http://img.youtube.com/vi/5IIPWznBvok/0.jpg)](http://www.youtube.com/watch?v=5IIPWznBvok)
 
-<!-- [Remotes, fetching and merging](https://www.youtube.com/watch?v=5IIPWznBvok) -->
 
 What do your remotes look like? use `git remote -v` to check the URLs of your remotes.
 
@@ -35,9 +36,15 @@ upstream  https://github.com/Devbootcamp/phase-0-unit-1.git (push)
 
 [USERNAME] should be your own user name.
 
+In this context, the fetch URL is specifying where you get your changes from on a website. For example, when you type:
+
+`git fetch origin master`
+
+You are basically saying "fetch the changes from the master branch of this site". Push does the opposite and is where your changes will be pushed.
+
 ## Release 2: Fetching Changes
 
-When your new week is released, or when we make important updates to the curriculum mid-week, you'll want to return to this challenge and follow the video instructions on fetching and merging from Devbootcamp's repo.
+When your new week is released, or when we make important updates to the curriculum mid-week, you'll want to return to this challenge and follow the video instructions on fetching and merging from Devbootcamp's repo (so it may be helpful to bookmark it).
 
 If we specify you need to fetch from a specific branch, make sure to note that with your fetch and merge commands. This will only happen after you finish a unit and we prepare your previous unit materials for the new students.
 
@@ -53,9 +60,7 @@ It's important to know that fetching changes will not impact your work at all. G
 
 [![Merge Conflict](http://img.youtube.com/vi/NW9AVnzx1B8/0.jpg)](http://www.youtube.com/watch?v=NW9AVnzx1B8)
 
-<!-- [Merge Conflict](https://www.youtube.com/watch?v=NW9AVnzx1B8)
- -->
 ## Reflect
-Create a new branch and go through the making changes and pull requests process to add your changes to GitHub. 
+Create a new branch and go through the making changes and pull requests process to add your changes to GitHub.
 
-In the [my_reflection.md](my_reflection.md) file, answer the questions. 
+In the [my_reflection.md](my_reflection.md) file, answer the questions.
