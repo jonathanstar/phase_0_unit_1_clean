@@ -86,8 +86,6 @@ After following some developers, try asking one of them a question or commenting
 
 If you find a bug in a program, try tweeting it to their companies account to let them know.
 
-Give a shoutout to @devbootcamp if you want our community team to see you’re taking this lesson seriously. Be playful with it :)
-
 ## Release 2: 7 ways to do twitter in 10 minutes a day
 1. If you have a smartphone, download the app so you can check it a few times a day
 2. Over coffee in the morning, read through 10 tweets to see if there any interesting articles to read
@@ -100,4 +98,6 @@ Give a shoutout to @devbootcamp if you want our community team to see you’re t
 ## Release 3: Reflection
 Reflect on your twitter learnings on Twitter! Use the hashtag #DBCtwitter. This reflection should be super short. =)
 
-You'll be promoting and sharing your blogs using twitter and specialized hashtags so they are easily searchable. Twitter is also a great way to share who you are to people who don't know you so it's important to be a well-rounded person on Twitter. I've heard it's more common for people in the tech community to trade twitter handles than business cards. If you haven't yet, it's time to embrace the twitter-verse!
+You'll be promoting and sharing your blogs using twitter and specialized hashtags so they are easily searchable (the Google+ community got a bit crazy when we used that). If you request feedback and post your code, it won't be visible to anyone not in the Dev Bootcamp community, but your blog posts will be. We intend for Twitter to be a way to share blog posts with the greater Dev Bootcamp community (including other Phase 0 students and Dev Bootcamp staff), not for general promotion. Please let us know if you have any questions about this.
+
+Twitter is also a great way to share who you are to people who don't know you so it's important to be a well-rounded person on Twitter. I've heard it's more common for people in the tech community to trade twitter handles than business cards. If you haven't yet, it's time to embrace the twitter-verse!
