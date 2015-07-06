@@ -93,7 +93,9 @@ Now you'll want to push a copy of your `making-changes` branch up to your fork o
 `git push origin making-changes`
 This pushes the changes from your local copy to the remote repository on GitHub. `origin` refers to the remote location (in this case your repository on Github), and `making-changes` is the branch you want to push to.
 
-Then follow the directions on [Making Pull Requests](making-pull-requests.md) to merge  your changes into the master branch.
+Then follow the directions on [Making Pull Requests](making-pull-requests.md) to merge  your changes into the master branch. After you merge the changes, delete that branch, then go into your terminal, check out the master, pull the changes down, and delete the old feature branch. That will keep your branches clean. We recommend having one feature branch per challenge. When you are done with the challenge, delete the branch using:
+
+`git branch -d feature-branch-name`
 
 This was probably confusing because it's pretty weird. If you have questions about any of these commands, please do a bit of research on them to get some clarity. As you go through Phase 0, this process will become easier, so trust in the repetition!
 
