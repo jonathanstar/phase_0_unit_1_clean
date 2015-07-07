@@ -11,7 +11,7 @@ By the end of this lesson, you should be able to:
 
 ## Summary
 
-You have 2 options to set up your windows machine. I recommend the first option which is to create a virtual Linux environment to run files, and edit the files in windows. We are using Vagrant to create a lightweight, separate operating system only accessible inside a directory. We can then connect to the virtual machine and use the prepared environment to run Ruby, Node, rspec, Git and SQLite. Follow the instructions here on installing Sublime Text (release 0). Then, navigate to this repo (Phase-0-dev-box)[https://github.com/Devbootcamp/phase-0-dev-box] and follow the README instructions there.
+You have 2 options to set up your windows machine. I recommend the first option which is to create a virtual Linux environment to run files, and edit the files in windows. Vagrant creates a separate operating system that will be automatically set up to run all of the programs you will need in Phase 0. You will be able to use Linux commands in the system, and Linux is much closer to the Mac experience that you have on site. Follow the instructions here on installing Sublime Text (release 0). Then, navigate to this repo (Phase-0-dev-box)[https://github.com/Devbootcamp/phase-0-dev-box] and follow the README instructions there.
 
 If you want to set up your windows machine to run all of the executables, follow the instructions below. **NOTE**: Many students have found that setting up windows is more trouble than it is worth, and using a virtual linux image will teach you good habits for using an Apple computer on-site.
 
