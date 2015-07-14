@@ -61,7 +61,6 @@ Answer the reflection questions on the [my_reflection.md](my_reflection.md) file
 Commit your changes for each file in this challenge, and push your changes to github.
 
 ## Additional Resources:
-- [HTML5 Introduction at w3schools.org](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [HTML5 outlines](http://html5doctor.com/outlines/)
 - [HTML5 Style Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 - [HTML tag cheatsheat](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
