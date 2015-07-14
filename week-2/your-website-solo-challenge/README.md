@@ -45,7 +45,7 @@ Once you have all of the content on your index, make sure your HTML passes valid
 You may want to refer to these resources for HTML5 help:
 
 - [HTML5 Document Outlines](http://html5doctor.com/outlines/)
-- [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp)
+- [HTML5 Outline](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Sections_and_Outlines_of_an_HTML5_document)
 
 ## Release 3: Development - Create the blog/index.html
 
