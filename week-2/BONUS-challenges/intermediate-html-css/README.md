@@ -42,7 +42,7 @@ Powerful css selectors that allow you to reduce the amount of JavaScript you wil
 
 - [Psuedo-selectors](http://css-tricks.com/pseudo-class-selectors/)
 - [CSS3 Pseudo-selectors](http://coding.smashingmagazine.com/2011/03/30/how-to-use-css3-pseudo-classes/)
-- [W3Schools CSS Psuedo-selectors](http://www.w3schools.com/css/css_pseudo_classes.asp)
+- [MDN Psuedo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 - [:before and :after psuedo
 elements](http://www.smashingmagazine.com/2011/07/13/learning-to-use-the-before-and-after-pseudo-elements-in-css/)
 - [Amazing things psuedo elements can
