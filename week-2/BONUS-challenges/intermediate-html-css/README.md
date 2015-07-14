@@ -15,7 +15,7 @@ Most people think of the web websites as mostly static--they look the way they l
 
 Do some research into standard practices of web design, Reset CSS, Normalize CSS, and HTML5. Use the links below *and* look for resources on the web. If you find any good ones, share them with your cohort in the Google+ community!
 
-- w3schools: [HTML5 Introduction](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- Mozilla Developer [HTML5 Introduction](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - Read: [HTML5 and the document outlining algorithm](http://www.smashingmagazine.com/2011/08/16/html5-and-the-document-outlining-algorithm/)
 
 
