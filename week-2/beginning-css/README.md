@@ -37,7 +37,7 @@ You'll want to add the link to the my-berkshire-stylesheet.css in the html file 
 ## Release 2: Add CSS
 Make your site look like Berkshire Hathaway's! You may want to add classes or ids (decide which makes the most sense and why) to your HTML.
 
-Get used to searching for how to do these things. You'll find a lot of great resources that will help you with HTML and CSS. w3schools is one good resource.
+Get used to searching for how to do these things. You'll find a lot of great resources that will help you with HTML and CSS. [Mozilla Developer Network's Documentation](https://developer.mozilla.org/en-US/) is one good resource.
 
 #### 1. Change the following colors.
   - Text:  #000080 (navy)
