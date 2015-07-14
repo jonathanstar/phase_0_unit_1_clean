@@ -42,7 +42,7 @@ Stack the elements in top of one another without any space between them (in orde
 <img src="../imgs/devtools-column.png" width="400" height="249">
 
 #### 3. Row
-Put the boxes in a row. Have the boxes that have size dimensions defined keep their original shape and size. HINT: Look at the [CSS Display](http://www.w3schools.com/cssref/pr_class_display.asp) property.<br>
+Put the boxes in a row. Have the boxes that have size dimensions defined keep their original shape and size. HINT: Look at the [CSS Display](https://developer.mozilla.org/en-US/docs/Web/CSS/display) property.<br>
 <img src="../imgs/devtools-row.png" width="400" height="193">
 
 #### 4. Make Equidistant
@@ -54,7 +54,7 @@ Resize the boxes so they are squares (I used 5em).<br>
 <img src="../imgs/devtools-squares.png" width="266" height="400">
 
 #### 6. Footer
-Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](http://www.w3schools.com/cssref/pr_class_position.asp) property.<br>
+Make `div-1` a footer. Make the height 2em, the width 100% of the screen (Get rid of that annoying gray to the left). Then move it to the bottom of the page. No matter what, this div should always stay at the bottom. HINT: review the [CSS Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position) property.<br>
 <img src="../imgs/devtools-footer.png" width="400" height="220">
 
 #### 7. Header
