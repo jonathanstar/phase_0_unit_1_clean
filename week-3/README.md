@@ -16,12 +16,12 @@ Before starting, please read Chris Pine's Introduction p. xi - xv. The chapters 
 
 Number | Name | Est. time (hrs)**
 -------|----------------|----------
- 1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25 |
- 2. | [Variables and Methods](methods) | 1.5 |
+ 1. | [Numbers, Letters, and Variable Assignment](numbers-letters) | 1.25** |
+ 2. | [Variables and Methods](methods) | 1.5** |
  3. | [Analyze Errors](analyze-errors) | 1.25 |
- 4. | [Flow Control](flow-control) | 2.25 |
- 5. | [Arrays, Iterators, and Hashes](arrays) | 2.5 |
- 6. | [More Methods](more-methods) | 2.25 |
+ 4. | [Flow Control](flow-control) | 2.25** |
+ 5. | [Arrays, Iterators, and Hashes](arrays) | 2.5** |
+ 6. | [More Methods](more-methods) | 2.25** |
  7. | [Technical Blog](technical-blog.md) | 1.5 |
  8. | [Cultural Blog](cultural-blog.md) | 1.25 |
  9. | [Blog Revisited: Testing and Maintenance](testing-and-maintenance) | 1
@@ -32,7 +32,7 @@ Number | Name | Est. time (hrs)**
  14. | [Sign up](https://phase0.devbootcamp.com/) for GPS 2.1 | N/A
  15. | [BONUS Challenges](BONUS-challenges)** *(Optional)* | varies |
 
-** These length estimates are calculated from past cohort averages. The *Well-Grounded Rubyist* readings were not attached or required.
+** Mandatory readings from the *Well-Grounded Rubyist* were not part of the initial survey, so please be sure to include the reading in your submissions so these averages can be updated!
 
 Please note, we put the blog challenges at the end of the week, but you can decide when to work on them. They may be helpful to do in the middle of the week or when you're stuck in another challenge.
 
