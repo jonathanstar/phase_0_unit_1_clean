@@ -84,7 +84,7 @@ Confused about the difference between git and GitHub? Try one of these articles:
 - [Is Git the same as GitHub?](http://www.jahya.net/blog/?2013-05-git-vs-github)
 
 
-## Release 4: Reflect
+## Release 3: Reflect
 You know the drill at this point! Consider the following questions, and answer them in your text editor or on paper so you can add them to your next challenge reflection properly using git.
 
 * Write an explanation of and compare git and GitHub to a non-technical audience.
