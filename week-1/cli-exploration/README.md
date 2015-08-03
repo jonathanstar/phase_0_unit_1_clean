@@ -18,7 +18,7 @@ more complicated commands.
 Most modern web-stack development occurs on operating systems that are modeled
 on or which use the paradigms of the Unix operating system. Invented in 1969
 at Bell the Unix operating system predates Mac OSX, MacOS, Windows, etc. by
-nearly at least 20 years. It is an operating system which was capable of
+nearly 20 years. It is an operating system which was capable of
 running efficiently on hardware over a thousand times slower than your mobile
 phone.
 
