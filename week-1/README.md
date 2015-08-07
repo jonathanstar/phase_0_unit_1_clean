@@ -10,7 +10,7 @@ We do not expect you to peer-pair during week 1. Most of the challenges are diff
 
 ## Tasks and Challenges
 
-Number | Name | Est. time (hrs)**
+Number | Name | Avg. time (hrs)**
 -------|-------------------|----------
 1. | [Think about Time](think-about-time) | 2
 2. | [The Command Line](command-line) | 3.75
