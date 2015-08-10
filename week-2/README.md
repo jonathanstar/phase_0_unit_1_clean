@@ -10,7 +10,7 @@ It's important to start recognizing when you are spending too much time on a cha
 
 ## Tasks and Challenges
 
-Number | Name | Est. time (hrs)**
+Number | Name | Avg. time (hrs)**
 ---|--------------------|----------
 1. | [Cultural Assignment](cultural-assignment.md) | < 1
 2. | [Watch: The Critical Inner Voice (video)](https://www.youtube.com/watch?v=uWc4pZhnpOw) | < 0.5
